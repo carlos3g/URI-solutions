@@ -26,3 +26,9 @@
 | 1036 | [Python](./python/1036.py) | C++ |
 | 1037 | [Python](./python/1037.py) | [C++](./c++/1037.cpp) |
 | 1038 | [Python](./python/1038.py) | [C++](./c++/1038.cpp) |
+| 1040 | [Python](./python/1040.py) | [C++](./c++/1040.cpp) |
+| 1041 | [Python](./python/1041.py) | [C++](./c++/1041.cpp) |
+| 1042 | [Python](./python/1042.py) | [C++](./c++/1042.cpp) |
+| 1043 | [Python](./python/1043.py) | [C++](./c++/1043.cpp) |
+| 1044 | [Python](./python/1044.py) | [C++](./c++/1044.cpp) |
+| 1045 | [Python](./python/1045.py) | [C++](./c++/1045.cpp) |
