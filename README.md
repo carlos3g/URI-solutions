@@ -32,3 +32,8 @@
 | 1043 | [Python](./python/1043.py) | [C++](./c++/1043.cpp) |
 | 1044 | [Python](./python/1044.py) | [C++](./c++/1044.cpp) |
 | 1045 | [Python](./python/1045.py) | [C++](./c++/1045.cpp) |
+| 1046 | [Python](./python/1046.py) | [C++](./c++/1046.cpp) |
+| 1048 | [Python](./python/1048.py) | [C++](./c++/1048.cpp) |
+| 1049 | [Python](./python/1049.py) | [C++](./c++/1049.cpp) |
+| 1050 | [Python](./python/1050.py) | [C++](./c++/1050.cpp) |
+| 1051 | [Python](./python/1051.py) | [C++](./c++/1051.cpp) |
