@@ -37,3 +37,8 @@
 | 1049 | [Python](./python/1049.py) | [C++](./c++/1049.cpp) |
 | 1050 | [Python](./python/1050.py) | [C++](./c++/1050.cpp) |
 | 1051 | [Python](./python/1051.py) | [C++](./c++/1051.cpp) |
+| 1052 | [Python](./python/1052.py) | C++ |
+| 1059 | [Python](./python/1059.py) | [C++](./c++/1059.cpp) |
+| 1060 | [Python](./python/1060.py) | [C++](./c++/1060.cpp) |
+| 1061 | [Python](./python/1061.py) | [C++](./c++/1061.cpp) |
+| 1064 | [Python](./python/1064.py) | [C++](./c++/1064.cpp) |
