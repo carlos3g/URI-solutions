@@ -42,3 +42,11 @@
 | 1060 | [Python](./python/1060.py) | [C++](./c++/1060.cpp) |
 | 1061 | [Python](./python/1061.py) | [C++](./c++/1061.cpp) |
 | 1064 | [Python](./python/1064.py) | [C++](./c++/1064.cpp) |
+| 1065 | [Python](./python/1065.py) | [C++](./c++/1065.cpp) |
+| 1066 | [Python](./python/1066.py) | [C++](./c++/1066.cpp) |
+| 1067 | [Python](./python/1067.py) | [C++](./c++/1067.cpp) |
+| 1070 | [Python](./python/1070.py) | [C++](./c++/1070.cpp) |
+| 1071 | [Python](./python/1071.py) | [C++](./c++/1071.cpp) |
+| 1072 | [Python](./python/1072.py) | [C++](./c++/1072.cpp) |
+| 1073 | [Python](./python/1073.py) | [C++](./c++/1073.cpp) |
+| 1074 | [Python](./python/1074.py) | [C++](./c++/1074.cpp) |
