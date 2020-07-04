@@ -50,3 +50,8 @@
 | 1072 | [Python](./python/1072.py) | [C++](./c++/1072.cpp) |
 | 1073 | [Python](./python/1073.py) | [C++](./c++/1073.cpp) |
 | 1074 | [Python](./python/1074.py) | [C++](./c++/1074.cpp) |
+| 1078 | [Python](./python/1078.py) | [C++](./c++/1078.cpp) |
+| 1079 | [Python](./python/1079.py) | [C++](./c++/1079.cpp) |
+| 1080 | [Python](./python/1080.py) | [C++](./c++/1080.cpp) |
+| 1094 | [Python](./python/1094.py) | [C++](./c++/1094.cpp) |
+| 1095 | [Python](./python/1095.py) | [C++](./c++/1095.cpp) |
