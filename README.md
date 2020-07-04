@@ -50,8 +50,14 @@
 | 1072 | [Python](./python/1072.py) | [C++](./c++/1072.cpp) |
 | 1073 | [Python](./python/1073.py) | [C++](./c++/1073.cpp) |
 | 1074 | [Python](./python/1074.py) | [C++](./c++/1074.cpp) |
+| 1075 | [Python](./python/1075.py) | [C++](./c++/1075.cpp) |
 | 1078 | [Python](./python/1078.py) | [C++](./c++/1078.cpp) |
 | 1079 | [Python](./python/1079.py) | [C++](./c++/1079.cpp) |
 | 1080 | [Python](./python/1080.py) | [C++](./c++/1080.cpp) |
 | 1094 | [Python](./python/1094.py) | [C++](./c++/1094.cpp) |
 | 1095 | [Python](./python/1095.py) | [C++](./c++/1095.cpp) |
+| 1096 | [Python](./python/1096.py) | [C++](./c++/1096.cpp) |
+| 1097 | [Python](./python/1097.py) | [C++](./c++/1097.cpp) |
+| 1098 | [Python](./python/1098.py) | [C++](./c++/1098.cpp) |
+| 1099 | [Python](./python/1099.py) | [C++](./c++/1099.cpp) |
+| 1101 | [Python](./python/1101.py) | [C++](./c++/1101.cpp) |
