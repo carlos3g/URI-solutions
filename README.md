@@ -1,6 +1,6 @@
 # URI-solutions
 
-| Problemas                           | Python | C++ |
+| Problemas                           | Python | C++ |  C  |
 |-------------------------------------|--------|--------|
 | 1001 | [Python](./python/1001.py) | [C++](./c++/1001.cpp) |
 | 1002 | [Python](./python/1002.py) | [C++](./c++/1002.cpp) |
