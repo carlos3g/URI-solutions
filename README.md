@@ -66,3 +66,8 @@
 | 1115 | [Python](./python/1115.py) | [C++](./c++/1115.cpp) |
 | 1116 | [Python](./python/1116.py) | [C++](./c++/1116.cpp) |
 | 1117 | [Python](./python/1117.py) | [C++](./c++/1117.cpp) |
+| 1118 | [Python](./python/1118.py) | C++ |
+| 1131 | [Python](./python/1131.py) | [C++](./c++/1131.cpp) |
+| 1132 | [Python](./python/1132.py) | [C++](./c++/1132.cpp) |
+| 1133 | [Python](./python/1133.py) | [C++](./c++/1133.cpp) |
+| 1134 | [Python](./python/1134.py) | C++ |
