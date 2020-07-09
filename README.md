@@ -3,4 +3,4 @@
 ---
 [Categorias](https://www.urionlinejudge.com.br/judge/pt/categories):
 1. [Iniciante](categorias/iniciante#iniciante)
-1. [SQL](categorias/sql#sql)
+2. [SQL](categorias/sql#sql)
