@@ -1,5 +1,4 @@
-# URI-solutions   
-Este repositório contém resoluções dos problemas encontrados na plataforma [URI - Online Judge](https://www.urionlinejudge.com.br). Sinta-se livre para contribuir!
+# URI-solutions
 ---
 Aqui estão as categorias atualmente disponíveis neste repositório 
    1. [Iniciante](categorias/iniciante#iniciante)
