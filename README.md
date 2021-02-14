@@ -12,5 +12,15 @@ Este repositório tem como objetivo reunir diversas resoluções de problemas en
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+## 🤝 Contribuindo 
+
+Todo tipo de contribuição é bem-vinda, nós admiramos isso!
+
+Tem algum problema? Encontrou um bug ou exercício incorreto? Tem alguma dica? Abra uma [issue](https://github.com/carlos3g/URI-solutions/issues) descrevendo.
+
+Quer contribuir com código? Pedimos que antes leia [este guia de contribuição](https://github.com/firstcontributions/first-contributions)
+
+Não esqueça de deixar a sua ⭐, também é um modo de contribuir com o projeto ;)
+
 ---
 Criado por [Carlos Mesquita](https://github.com/carlos3g) :purple_heart:
